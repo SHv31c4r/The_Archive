@@ -2327,7 +2327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ivHg5xWIuCl-2PMUhn3Q" name="Клапан">
-    <mxGraphModel dx="738" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="772" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2460,9 +2460,6 @@
         </mxCell>
         <mxCell id="FqJpkbVrek_WfwH6Q2eH-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Клапан Burket Type 2651" vertex="1">
           <mxGeometry height="30" width="203" x="615.5" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="5mZ-CYem-q2L0MmFjOlP-1" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=off;" value="" vertex="1">
-          <mxGeometry height="20" width="75" x="419" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
